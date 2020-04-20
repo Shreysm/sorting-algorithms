@@ -55,7 +55,7 @@ Methods:
  
 •	main() – It takes the length and array elements input from the user. It passes the array to the mergeSort() method and displays the sorted array with the execution time taken.
 
-##Quick Sort Explanation
+## Quick Sort Explanation
 
 Methods:
 
